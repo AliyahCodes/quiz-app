@@ -33,7 +33,7 @@ Aplikasi web sederhana berbasis **ReactJS** yang dirancang untuk ujian pilihan g
 
 ### **Cara Mengakses Aplikasi**  
 Aplikasi telah dideploy dan tersedia secara online. Anda dapat mencobanya melalui link berikut:  
-[**QuizApp Programmer Test - Live Demo**](https://your-vercel-app-url.vercel.app/)  
+[**QuizApp Programmer Test - Live Demo**](quiztest-programmer.vercel.app)  
 
 ---
 
@@ -42,39 +42,40 @@ Aplikasi telah dideploy dan tersedia secara online. Anda dapat mencobanya melalu
     - Clone repositori proyek ini ke komputer Anda menggunakan perintah berikut:
 
    ```bash
-        git clone https://github.com/username/quizapp-programmer-test.git
+        git clone https://github.com/AliyahCodes/quiz-app.git
 
 2. **Pindah ke folder proyek yang telah di-clone 📂**
     ```bash
         cd quizapp-programmer-test
 
-
 3. **Instal Dependensi 📦**
-    - Instal semua dependensi yang diperlukan menggunakan npm atau pnpm :
+ - Instal semua dependensi yang diperlukan menggunakan npm :
 
     ```bash
         npm install
-    atau
+
+ - Instal semua dependensi yang diperlukan menggunakan pnpm :
+
    ```bash
         pnpm install
 
-4. **Jalankan Aplikasi Secara Lokal 🖥️, gunakan perintah berikut**
-    ```bash
-        pnpm run dev
+4. **Jalankan Aplikasi Secara Lokal 🖥️**
+    - jika menggunakan pnpm gunakan perintah berikut
+        ```bash
+             pnpm run dev
 
-    atau
+    - jika menggunakan npm gunakan perintah berikut
+        ```bash
+            npm run dev
 
-    ```bash
-        npm run dev
-
-    **Aplikasi dapat diakses melalui**: http://localhost:3000
+    **Aplikasi dapat diakses melalui** : http://localhost:3000
 
 5. **Build untuk Produksi 📋**
     - Jika ingin membuat build aplikasi untuk produksi, jalankan:
 
         ```bash
             pnpm run build
-        atau
+    - atau
 
         ```bash
             npm run build
