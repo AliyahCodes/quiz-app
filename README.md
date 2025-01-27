@@ -33,7 +33,7 @@ Aplikasi web sederhana berbasis **ReactJS** yang dirancang untuk ujian pilihan g
 
 ### **Cara Mengakses Aplikasi**  
 Aplikasi telah dideploy dan tersedia secara online. Anda dapat mencobanya melalui link berikut:  
-[**QuizApp Programmer Test - Live Demo**](quiztest-programmer.vercel.app)  
+[**QuizApp Programmer Test - Live Demo**](https://quiztest-programmer.vercel.app/)  
 
 ---
 
